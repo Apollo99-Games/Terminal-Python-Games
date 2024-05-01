@@ -3,7 +3,7 @@
 
 The instructions to play the games are printed when you run the code. The code can be run from the "main.py" file.
 
-You can run the games on Replit.
+You can run the games on [Replit](https://replit.com/@WahhajKhan/Terminal-Games-in-Python?v=1).
 
 Note the curses library appears to detect keys differently on different compilers. You can switch between these two options to see what works for you:
 ```python
