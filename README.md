@@ -23,5 +23,5 @@ UP_KEY = curses.KEY_UP
 
 ```
 
-##Some screenshots of the program:
+## Some screenshots of the program:
 
