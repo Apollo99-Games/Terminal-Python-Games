@@ -25,3 +25,12 @@ UP_KEY = curses.KEY_UP
 
 ## Some screenshots of the program:
 
+Snake Game
+
+![snake game](https://github.com/Apollo99-Games/Terminal-Python-Games/assets/163193765/e55a3d0b-916a-45e9-8e59-f1de9777d231)
+
+Blackjack
+
+![blackjack](https://github.com/Apollo99-Games/Terminal-Python-Games/assets/163193765/b01db311-3f4b-48ca-8558-b3b6af2bef89)
+
+
